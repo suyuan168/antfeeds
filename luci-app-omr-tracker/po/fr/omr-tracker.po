@@ -1,0 +1,45 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2020-08-03 12:39+0000\n"
+"Last-Translator: Weblate Admin <contact@openmptcprouter.com>\n"
+"Language-Team: French <http://weblate.openmptcprouter.com/projects/omr/"
+"luciapplicationsomr-tracker/fr/>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 4.0.4\n"
+
+msgid ""
+"Always ping gateway, then test connection by ping or dns. None mode only "
+"ping gateway."
+msgstr ""
+"Ping toujours la passerelle, puis teste la connexion par ping ou DNS. Le "
+"mode \"none\" ping uniquement la passerelle."
+
+msgid "Defaults Settings"
+msgstr "Paramètres par défaut"
+
+msgid "Hosts"
+msgstr "Hôtes"
+
+msgid "OMR-Tracker"
+msgstr "OMR-Tracker"
+
+msgid "OMR-Tracker detect when a connection is down"
+msgstr "OMR-Tracker détecte quand une connexion ne fonctionne plus"
+
+msgid "Retry interval (s)"
+msgstr "Intervalle entre les essais (s)"
+
+msgid "Timeout (s)"
+msgstr "Délais d'attente (s)"
+
+msgid "Tries"
+msgstr "Essais"
+
+msgid "Type"
+msgstr "Type"

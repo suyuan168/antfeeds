@@ -1,0 +1,149 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2020-10-07 10:57+0000\n"
+"Last-Translator: Weblate Admin <contact@openmptcprouter.com>\n"
+"Language-Team: French <http://weblate.openmptcprouter.com/projects/omr/"
+"luciapplicationsmptcp/fr/>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 4.0.4\n"
+
+msgid "(%d minute window, %d second interval)"
+msgstr "(fenêtre de %d minute, intervalle de %d seconde)"
+
+msgid "(%d minutes window, %d seconds interval)"
+msgstr "(fenêtre de %d minutes, intervalle de %d secondes)"
+
+msgid "Average:"
+msgstr "Moyenne :"
+
+msgid "Bandwidth"
+msgstr "Bande passante"
+
+msgid "Congestion Control"
+msgstr "Contrôle de la congestion"
+
+msgid "Current:"
+msgstr "Actuellement :"
+
+msgid "Download:"
+msgstr "Téléchargement :"
+
+msgid "Fullmesh subflows for each pair of IP addresses"
+msgstr "Sous-flux Fullmesh pour chaque paire d'adresses IP"
+
+msgid "Inbound:"
+msgstr "Entrant :"
+
+msgid "Interfaces Settings"
+msgstr "Paramètres des interfaces"
+
+msgid "MB/s"
+msgstr "Mo/s"
+
+msgid "MPTCP"
+msgstr "MPTCP"
+
+msgid "Mbit/s"
+msgstr "Mbit/s"
+
+msgid "Multipath TCP"
+msgstr "Multipath TCP"
+
+msgid "Multipath TCP SYN retries"
+msgstr "Tentatives Multipath TCP SYN"
+
+msgid "Multipath TCP checksum"
+msgstr "Somme de contrôle Multipath TCP"
+
+msgid "Multipath TCP path-manager"
+msgstr "Gestionnaire de chemins Multipath TCP"
+
+msgid "Multipath TCP scheduler"
+msgstr "Planificateur Multipath TCP"
+
+msgid ""
+"Networks MPTCP settings. Visit <a href='http://multipath-tcp.org/pmwiki.php/"
+"Users/ConfigureMPTCP'>http://multipath-tcp.org/pmwiki.php/Users/"
+"ConfigureMPTCP</a> for help."
+msgstr ""
+"Paramètres réseaux MPTCP. Visiter <a href='http://multipath-tcp.org/pmwiki."
+"php/Users/ConfigureMPTCP'>http://multipath-tcp.org/pmwiki.php/Users/"
+"ConfigureMPTCP</a> pour de l'aide."
+
+msgid "One interface must be set as master"
+msgstr "Une interface doit être configuré en temps que maître"
+
+msgid "Outbound:"
+msgstr "Sortant :"
+
+msgid "Peak:"
+msgstr "Pointe :"
+
+msgid "Re-create fullmesh subflows after a timeout"
+msgstr "Recréer les sous-flux fullmesh après le délai d'expiration"
+
+msgid "Realtime Traffic"
+msgstr "Trafic temps réel"
+
+msgid "Settings"
+msgstr "Paramètres"
+
+msgid "Upload:"
+msgstr "Envoie :"
+
+msgid "backup"
+msgstr "remplaçant"
+
+msgid "binder"
+msgstr "lier"
+
+msgid "default"
+msgstr "Défaut"
+
+msgid "disable"
+msgstr "Désactive"
+
+msgid "disabled"
+msgstr "Désactivé"
+
+msgid "enable"
+msgstr "Active"
+
+msgid "enabled"
+msgstr "Activé"
+
+msgid "fullmesh"
+msgstr "fullmesh"
+
+msgid "handover"
+msgstr "relais"
+
+msgid "kB/s"
+msgstr "Ko/s"
+
+msgid "kbit/s"
+msgstr "kbit/s"
+
+msgid "master"
+msgstr "maître"
+
+msgid "ndiffports"
+msgstr "ndiffports"
+
+msgid "ndiffports subflows number"
+msgstr "Nombre de sous-flux ndiffports"
+
+msgid "redundant"
+msgstr "redondant"
+
+msgid "round-robin"
+msgstr "à tour de rôle"
+
+#~ msgid "Networks MPTCP settings"
+#~ msgstr "Paramètres réseaux MPTCP"
